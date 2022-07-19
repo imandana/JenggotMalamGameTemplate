@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App name [CHAR LIMIT=30] -->
+    <string name="app_name">Siapa Tutu Games</string>
+    <!-- Label for 'Settings' option [CHAR LIMIT=30] -->
+    <string name="action_settings">Settings</string>
+
+</resources>
